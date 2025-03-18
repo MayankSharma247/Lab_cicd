@@ -14,13 +14,13 @@ Parameters:
 
     Type: String
 
-    Default: 'Enabled'
+    Default: 'Suspended'
 
     AllowedValues:
 
-      - 'Enabled'
+      - 'Suspended'
 
-      - 'Disabled'
+      - 'Suspended'
 
     Description: Enable or disable versioning for the S3 bucket
  
